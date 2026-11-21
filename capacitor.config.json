@@ -1,0 +1,8 @@
+{
+  "appId": "com.dutama.service",
+  "appName": "DUTAMA Service",
+  "webDir": "www",
+  "backgroundColor": "#0b3a8c",
+  "server": { "androidScheme": "https" },
+  "plugins": { "CapacitorHttp": { "enabled": true } }
+}
